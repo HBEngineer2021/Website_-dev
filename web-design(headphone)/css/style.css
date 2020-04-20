@@ -1,0 +1,27 @@
+footer {
+    text-align: center;
+    }
+
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px #000000;
+    }
+
+.box1 p {
+    margin: 0; 
+    padding: 0;
+    }
+
+h1.line {
+    border-bottom: solid 3px #0000ff;
+    }
+img.logo {
+    width: 200px;
+    height: 80px;
+    }
+
+.textR {
+    text-align: right;
+}    
